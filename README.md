@@ -1,2 +1,2 @@
-# pong2023
-Site de aprendizagem
+# pingpong2023
+Código de game pong para aula de Pensamento Computacional.
